@@ -1,0 +1,9 @@
+com\udea\MSproyecto\dao\ClientesDAO.class
+com\udea\MSproyecto\dao\RestaurantesDAO.class
+com\udea\MSproyecto\rest\RestaurantesRestController.class
+com\udea\MSproyecto\dto\Restaurantes.class
+com\udea\MSproyecto\excepciones\ExcepcionProyecto.class
+com\udea\MSproyecto\rest\ClientesRestController.class
+com\udea\MSproyecto\Application.class
+com\udea\MSproyecto\dto\Clientes.class
+com\udea\MSproyecto\rest\MainController.class
